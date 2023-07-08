@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Next Start Time Part-1 (56 minute)
 
 ## Custom Points to Remember 
 
@@ -9,6 +10,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 4. nodemailer : shoot out the mail for authenatication
 5. react-hot-toast : providing message about the user which is successfully sign up or not.
 6. mongoose : Talk with our DataBase
+
+## Folder Structure 
+1. In src -> app -> ( route folder along with page file like login is route folder containing 
+page.tsx)
+
 
 ## Getting Started
 
